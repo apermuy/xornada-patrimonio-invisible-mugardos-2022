@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patrimonioinvisiblemugardos.comunidadeozulo.org/sitemap.xml
