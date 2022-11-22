@@ -2,6 +2,7 @@ var elementos = {
     "type": "FeatureCollection",
     "features": [
         {
+            "id": 1,
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -14,13 +15,15 @@ var elementos = {
                 "title": "O banco dos namorados",
                 "person": "Luisa: <b>a da Pitusa</b>",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "Conta Luisa que nos anos máis duros da ditadura a rapazada Mugardesa bailaba os guateques no Casino.",
-                "paragraph_2" : "Preto do Casal, Xoan o da Conexa constríu un banco para a súa namorada...",
-                "mp3_file": "https://www.arredordorural.org/sites/default/files/IIIENCONTRO_SABERES_15_6_2022.mp3"
-            },
-            "id": 1
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""
+            }
+           
         },
         {
+            "id": 2,
             "geometry": {
                 "type": "Point",
                 "coordinates": [
@@ -33,11 +36,11 @@ var elementos = {
                 "title": "Acrivo: a árbore da vida",
                 "person": "Pepe Bao : <b>O da collona</b>",
                 "neighborhood": "oseixo",
-                "paragraph_1" : "Conta Pepe que nos anos máis duros da ditadura a rapazada Mugardesa bailaba os guateques no Casino.",
-                "paragraph_2" : "Preto do peirao, Xoan o da Conexa constríu un banco para a súa namorada...",
-                "mp3_file": "https://www.arredordorural.org/sites/default/files/IIIENCONTRO_SABERES_15_6_2022.mp3"                 
-            },
-            "id": 2
+                "paragraph_1" : "",
+                "paragraph_2" : "reto do peirao, Xoan o da Conexa constríu un banco para a súa namorada...",
+                "sound_file": "https://www.arredordorural.org/sites/default/files/IIIENCONTRO_SABERES_15_6_2022.mp3",
+                "image_file": ""                 
+            }            
         }
     ]
 };

@@ -38,16 +38,35 @@ var geojsonMarkerOptions = {
 
 
 function onEachFeature(feature, layer) {
-    layer.bindPopup('<h5>' + feature.properties.title + '</h5>' + '<p>' + feature.properties.paragraph_1 + '</p>' + '<p>' + feature.properties.paragraph_2 + '</p>' +
-        '<h6>' + feature.properties.person + ' - ' + feature.properties.neighborhood + '</h6>' +
 
-        '<img src=\"images/' + feature.id + '.png\"\/>' +
+    var header_popup = '<h5>' + feature.properties.title + '</h5>';
+    var text_popup = header_popup;
 
-        '<audio src=\ "' + feature.properties.mp3_file + '\ " preload="none" controls>O teu navegador non soporta o elemento <code>audio</code>.</audio>' +
+    if (feature.properties.paragraph_1 != '') {
+        var text_popup = header_popup + '<p>' + feature.properties.paragraph_1 + '</p>';
+    }
 
-        '<br/>'
+    if (feature.properties.paragraph_2 != '') {
+        var text_popup = header_popup + '<p>' + feature.properties.paragraph_1 + '</p>' + '<p>' + feature.properties.paragraph_2 + '</p>';
+    }
 
-    );
+    if (feature.properties.image_file != '') {
+        var text_popup = header_popup +
+            '<p>' + feature.properties.paragraph_1 + '</p>' +
+            '<p>' + feature.properties.paragraph_2 + '</p>' +
+            '<img src=\"' + feature.properties.image_file + '\"\/>';
+    }
+
+    if (feature.properties.sound_file != '') {
+        var text_popup = header_popup +
+            '<p>' + feature.properties.paragraph_1 + '</p>' +
+            '<p>' + feature.properties.paragraph_2 + '</p>' +
+            '<img src=\"' + feature.properties.image_file + '\"\/>' +
+            '<audio src\"' + feature.properties.sound_file + '\" preload="none" controls>O teu navegador non soporta o elemento <code>audio</code>.</audio>';
+    }
+
+    layer.bindPopup(text_popup);
+
 }
 
 L.geoJSON(elementos, {
