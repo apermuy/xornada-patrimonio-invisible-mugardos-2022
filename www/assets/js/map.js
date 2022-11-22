@@ -16,7 +16,7 @@ var baseMaps = {
 const map = L.map('map', {
     center: [43.3571, -8.2561],
     zoom: 12,
-    layers: [osm, black],
+    layers: osm,
     fullscreenControl: true,
     fullscreenElement: true,
     fullscreenControlOptions: {
