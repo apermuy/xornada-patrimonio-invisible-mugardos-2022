@@ -24,6 +24,21 @@
     <meta name="twitter:description"
         content="Buscamos experiencias, recollemos momentos e mapeamos en aberto os sentimentos. Xornada de mapeo colectivo en Mugardos, A Coruña.">
     <meta name="twitter:image" content="https://patrimonioinvisiblemugardos.comunidadeozulo.org/images/og_mapa.png">
+    <!-- Matomo -->
+    <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function () {
+            var u = "//stats.comunidadeozulo.org/";
+            _paq.push(['setTrackerUrl', u + 'matomo.php']);
+            _paq.push(['setSiteId', '5']);
+            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+            g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+        })();
+    </script>
+    <!-- End Matomo Code -->
 
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript>
@@ -37,7 +52,7 @@
         integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
     <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js'></script>
     <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css'
-        rel='stylesheet' />       
+        rel='stylesheet' />
     <script src="assets/js/Leaflet.Spain.WMS.js"></script>
 
 </head>
