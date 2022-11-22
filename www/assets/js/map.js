@@ -77,3 +77,8 @@ L.geoJSON(elementos, {
     onEachFeature: onEachFeature
 
 }).addTo(map);
+
+var imageUrl = 'images/logo_comunidadeozulo_mugardos.png',
+imageBounds = [[43.36, -8.49], [43.41, -8.54]];
+
+L.imageOverlay(imageUrl, imageBounds).addTo(map);
