@@ -26,17 +26,6 @@ const map = L.map('map', {
 
 var layerControl = L.control.layers(baseMaps).addTo(map);
 
-
-var geojsonMarkerOptions = {
-    radius: 6,
-    fillColor: "#ff7800",
-    color: "#000",
-    weight: 1,
-    opacity: 1,
-    fillOpacity: 0.8
-};
-
-
 function onEachFeature(feature, layer) {
 
     var header_popup = '<h5>' + feature.properties.title + '</h5>';
@@ -71,7 +60,7 @@ function onEachFeature(feature, layer) {
 
 L.geoJSON(elementos, {
     pointToLayer: function (feature, latlng) {
-        return L.circleMarker(latlng, geojsonMarkerOptions);
+        return L.marker(latlng);
     },
 
     onEachFeature: onEachFeature
@@ -79,6 +68,6 @@ L.geoJSON(elementos, {
 }).addTo(map);
 
 var imageUrl = 'images/logo_comunidadeozulo_mugardos.png',
-imageBounds = [[43.36, -8.49], [43.41, -8.54]];
+    imageBounds = [[43.37, -8.12], [43.41, -8.17]];
 
 L.imageOverlay(imageUrl, imageBounds).addTo(map);
