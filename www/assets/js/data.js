@@ -920,6 +920,69 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
+        },
+        ,
+        {
+            "id": 46,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25655,
+                    43.46487
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "A rampa de Vila",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 47,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25393,
+                    43.46552
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "A Magnética",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 48,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25733,
+                    43.46124
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda da Arxentina",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
         }
              
     ]
