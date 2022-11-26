@@ -738,8 +738,8 @@ var elementos = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8.29747,
-                    43.46166
+                    -8.25799,
+                    43.46156
                 ]
             },
             "type": "Feature",
