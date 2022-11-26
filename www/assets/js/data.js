@@ -982,7 +982,28 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
+        },
+        {
+            "id": 49,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25611,
+                    43.46390
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Fábrica de gabardinas",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
         }
+             
              
     ]
 };
