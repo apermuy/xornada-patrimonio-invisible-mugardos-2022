@@ -81,6 +81,47 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
+        },
+        {
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25897,
+                    43.46093
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "O Pósito",
+                "person": "",
+                "neighborhood": "sanxulian",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.26053,
+                    43.45703
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Cemiterio",
+                "person": "",
+                "neighborhood": "sanxulian",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
         }
     ]
 };
