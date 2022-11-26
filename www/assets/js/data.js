@@ -912,7 +912,7 @@ var elementos = {
             },
             "type": "Feature",
             "properties": {
-                "title": "Asteleiro de Vila",
+                "title": "Estaleiro de Vila",
                 "person": "",
                 "neighborhood": "sanxiao",
                 "paragraph_1" : "",
