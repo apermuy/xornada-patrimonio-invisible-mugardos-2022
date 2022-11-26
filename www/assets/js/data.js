@@ -858,6 +858,69 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 43,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23258,
+                    43.45936
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "A rampla",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "Hoxe pechado o paso. Antes vivía alí o Coxo a avoa de Juan, que se bañaba alí de pequeno e ían centos de mulleres a mariscar a pé.",
+                "paragraph_2" : "Cando se podía mariscar viña a Garda Civil e disparaban ó aire e todas ían esconderse ao monte.",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 44,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25613,
+                    43.46354
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Garda Civil",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 45,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25603,
+                    43.46475
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Asteleiro de Vila",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
              
     ]
 };
