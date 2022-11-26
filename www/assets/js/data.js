@@ -711,5 +711,110 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25586,
+                    43.46010
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Fonte dos Catro Canos",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.29747,
+                    43.46166
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Cantón de Cora",
+                "person": "",
+                "neighborhood": "sanxiao,
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25799,
+                    43.46149
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Casa da Serea",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25317,
+                    43.46344
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Fogar",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.26238,
+                    43.46105
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Fábrica de Salazón",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
