@@ -921,7 +921,6 @@ var elementos = {
                 "image_file": ""                 
             }            
         },
-        ,
         {
             "id": 46,
             "geometry": {
