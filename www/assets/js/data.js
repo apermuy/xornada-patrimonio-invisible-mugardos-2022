@@ -207,5 +207,89 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.27182,
+                    43.45877
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Lavadoiro da Redonda",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.27108,
+                    43.46179
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda de Laura",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25694,
+                    43.46137
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Teléfonos",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25367,
+                    43.46343
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Ciberencontro Kernel",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
