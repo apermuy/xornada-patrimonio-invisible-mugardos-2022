@@ -501,5 +501,110 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23608,
+                    43.45478
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Bar de Chone",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.22075,
+                    43.44640
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Estanco tenda bar",
+                "person": "",
+                "neighborhood": "franza",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25617,
+                    43.45920
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Pub ManMay",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.22030,
+                    43.44642
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Casino Progreso de Franza",
+                "person": "",
+                "neighborhood": "franza",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.21514,
+                    43.45089
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Institución Escolas Franza O Seixo",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
