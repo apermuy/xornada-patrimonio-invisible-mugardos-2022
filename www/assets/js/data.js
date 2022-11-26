@@ -606,5 +606,110 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.21869,
+                    43.44670
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Edificio Grupo Escolar Francisco Vizoso",
+                "person": "",
+                "neighborhood": "franza",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23689,
+                    43.45825
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda de Maruxa do Penedo",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23687,
+                    43.45688
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda do Coxo",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23896,
+                    43.45892
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda Amparo a Piruca",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25311,
+                    43.45653
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Cabina Telefónica",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
