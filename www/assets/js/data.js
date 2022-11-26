@@ -123,5 +123,89 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.26985,
+                    43.46197
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Barracoi",
+                "person": "",
+                "neighborhood": "sanxulian",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2359,
+                    43.45444
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Punto de xuntanza da peña Galiñeiro",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25839,
+                    43.46145
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Taller de Rafael",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25505,
+                    43.45900
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Fonte de Apelón",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
