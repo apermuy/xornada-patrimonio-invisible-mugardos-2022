@@ -816,5 +816,48 @@ var elementos = {
                 "image_file": ""                 
             }            
         }
+        ,
+        {
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.26288,
+                    43.46065
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Praia da Bestarruza",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25637,
+                    43.45940
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Gardería infantil - Asociación Veciños Montefaro",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+             
     ]
 };
