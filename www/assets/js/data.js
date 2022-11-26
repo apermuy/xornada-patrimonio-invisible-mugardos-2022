@@ -61,6 +61,26 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
+        },
+        {
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25830,
+                    43.46169
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Grúa",
+                "person": "",
+                "neighborhood": "sanxulian",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
         }
     ]
 };
