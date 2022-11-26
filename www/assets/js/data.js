@@ -27,14 +27,14 @@ var elementos = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -8.258,
-                    43.461
+                    -8.25993,
+                    43.46198
                 ]
             },
             "type": "Feature",
             "properties": {
                 "title": "Matadoiro",
-                "person": "Pepe Bao : <b>O da collona</b>",
+                "person": "",
                 "neighborhood": "sanxulian",
                 "paragraph_1": "",
                 "paragraph_2": "",
