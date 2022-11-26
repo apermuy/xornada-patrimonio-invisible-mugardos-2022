@@ -396,5 +396,110 @@ var elementos = {
                 "image_file": ""
             }
         }
+        ,
+        {
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25663,
+                    43.46068
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Imprenta A Mugardesa",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+        ,
+        {
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.23969,
+                    43.45261
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Bar de Rilo",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+               ,
+        {
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25155,
+                    43.46015
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Bar tenda de Piñón",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                       ,
+        {
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.24082,
+                    43.45771
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "A tenda de Barbiñas",
+                "person": "",
+                "neighborhood": "mea",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
+                               ,
+        {
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.24141,
+                    43.45741
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Bar de Manolo do estanco + salón de baile",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }
     ]
 };
