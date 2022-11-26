@@ -38,7 +38,27 @@ var elementos = {
                 "neighborhood": "sanxulian",
                 "paragraph_1" : "",
                 "paragraph_2" : "",
-                "sound_file": ".mp3",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        },
+        {
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25656,
+                    43.46445
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "A Taquilla",
+                "person": "",
+                "neighborhood": "sanxulian",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
                 "image_file": ""                 
             }            
         }
