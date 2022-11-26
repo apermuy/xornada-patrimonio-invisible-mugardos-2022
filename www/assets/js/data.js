@@ -746,7 +746,7 @@ var elementos = {
             "properties": {
                 "title": "Cantón de Cora",
                 "person": "",
-                "neighborhood": "sanxiao,
+                "neighborhood": "sanxiao",
                 "paragraph_1" : "",
                 "paragraph_2" : "",
                 "sound_file": "",
