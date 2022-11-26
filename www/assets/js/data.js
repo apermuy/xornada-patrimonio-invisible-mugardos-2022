@@ -15,12 +15,12 @@ var elementos = {
                 "title": "Campo de fúbol vello",
                 "person": "Evaristo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
                 "image_file": ""
             }
-           
+
         },
         {
             "id": 2,
@@ -36,11 +36,11 @@ var elementos = {
                 "title": "Matadoiro",
                 "person": "Pepe Bao : <b>O da collona</b>",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         },
         {
             "id": 3,
@@ -56,11 +56,11 @@ var elementos = {
                 "title": "A Taquilla",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         },
         {
             "id": 4,
@@ -76,11 +76,11 @@ var elementos = {
                 "title": "Grúa",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         },
         {
             "id": 5,
@@ -96,11 +96,11 @@ var elementos = {
                 "title": "O Pósito",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
         ,
         {
@@ -117,11 +117,11 @@ var elementos = {
                 "title": "Cemiterio",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
         ,
         {
@@ -138,11 +138,11 @@ var elementos = {
                 "title": "Barracoi",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
         ,
         {
@@ -159,13 +159,13 @@ var elementos = {
                 "title": "Punto de xuntanza da peña Galiñeiro",
                 "person": "",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
-               ,
+        ,
         {
             "id": 9,
             "geometry": {
@@ -180,13 +180,13 @@ var elementos = {
                 "title": "Taller de Rafael",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
-                       ,
+        ,
         {
             "id": 10,
             "geometry": {
@@ -201,11 +201,11 @@ var elementos = {
                 "title": "Fonte de Apelón",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
         ,
         {
@@ -222,11 +222,11 @@ var elementos = {
                 "title": "Lavadoiro da Redonda",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
         ,
         {
@@ -243,13 +243,13 @@ var elementos = {
                 "title": "Tenda de Laura",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
-               ,
+        ,
         {
             "id": 13,
             "geometry": {
@@ -264,13 +264,13 @@ var elementos = {
                 "title": "Teléfonos",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
         }
-                       ,
+        ,
         {
             "id": 14,
             "geometry": {
@@ -285,11 +285,116 @@ var elementos = {
                 "title": "Ciberencontro Kernel",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1": "",
+                "paragraph_2": "",
                 "sound_file": "",
-                "image_file": ""                 
-            }            
+                "image_file": ""
+            }
+        }
+        ,
+        {
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25744,
+                    43.46020
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Plaza Vella",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1": "",
+                "paragraph_2": "",
+                "sound_file": "",
+                "image_file": ""
+            }
+        }
+        ,
+        {
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25615,
+                    43.46448
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Chipi",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1": "",
+                "paragraph_2": "",
+                "sound_file": "",
+                "image_file": ""
+            }
+        }
+        ,
+        {
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25658,
+                    43.46062
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Reloxería Maroto",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1": "",
+                "paragraph_2": "",
+                "sound_file": "",
+                "image_file": ""
+            }
+        }
+        ,
+        {
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25649,
+                    43.46061
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Peluquería Uría",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1": "",
+                "paragraph_2": "",
+                "sound_file": "",
+                "image_file": ""
+            }
+        }
+        ,
+        {
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25625,
+                    43.46050
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Carmelina",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1": "",
+                "paragraph_2": "",
+                "sound_file": "",
+                "image_file": ""
+            }
         }
     ]
 };
