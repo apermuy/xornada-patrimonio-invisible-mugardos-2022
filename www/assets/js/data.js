@@ -12,11 +12,11 @@ var elementos = {
             },
             "type": "Feature",
             "properties": {
-                "title": "Campo de fúbol vello",
+                "title": "Campo de fútbol vello e Campo da Festa da Pedreira",
                 "person": "Evaristo",
                 "neighborhood": "mea",
-                "paragraph_1": "",
-                "paragraph_2": "",
+                "paragraph_1": "Cando Linos furaba os balóns de punteirolo e meu avó me levaba aos partidos con traxe negro a boina",
+                "paragraph_2": "Despois de ser campo de fútbol pasou a ser campo da festa, onde íbamos ás verbenas",
                 "sound_file": "",
                 "image_file": ""
             }
