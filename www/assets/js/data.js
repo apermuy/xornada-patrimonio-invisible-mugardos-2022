@@ -430,9 +430,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Bar de Rilo",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "person": "Juan",
+                "neighborhood": "mea",
+                "paragraph_1" : "Eu a Rilo non ía, non me deixaban. Non me movía da miña zona.",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
