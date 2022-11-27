@@ -535,9 +535,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Estanco tenda bar",
-                "person": "",
+                "person": "Mar Novoa",
                 "neighborhood": "franza",
-                "paragraph_1" : "",
+                "paragraph_1" : "Corría da man dunha muller, Carmiña, ela sóa. Estaba solteira. Tiña mérito",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
@@ -577,9 +577,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Casino Progreso de Franza",
-                "person": "",
+                "person": "Mar e Raquel",
                 "neighborhood": "franza",
-                "paragraph_1" : "",
+                "paragraph_1" : "De 1927, fundado por indians retornados",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
