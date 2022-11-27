@@ -157,9 +157,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Punto de xuntanza da peña Galiñeiro",
-                "person": "",
+                "person": "Alvaro",
                 "neighborhood": "mea",
-                "paragraph_1": "",
+                "paragraph_1": "De pequeno esperaba a furgoneta do colexio",
                 "paragraph_2": "",
                 "sound_file": "",
                 "image_file": ""
