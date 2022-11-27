@@ -159,7 +159,7 @@ var elementos = {
                 "title": "Punto de xuntanza da peña Galiñeiro",
                 "person": "Alvaro",
                 "neighborhood": "mea",
-                "paragraph_1": "De pequeno esperaba a furgoneta do colexio",
+                "paragraph_1": "Alvaro nos conta que de pequeno esperaba a furgoneta do colexio",
                 "paragraph_2": "",
                 "sound_file": "",
                 "image_file": ""
