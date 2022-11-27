@@ -1058,7 +1058,7 @@ var elementos = {
             "properties": {
                 "title": "Villalobos (casa antiga)",
                 "person": "",
-                "neighborhood": "sanxiao",
+                "neighborhood": "Franza",
                 "paragraph_1" : "",
                 "paragraph_2" : "",
                 "sound_file": "",
