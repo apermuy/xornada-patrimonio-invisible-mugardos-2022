@@ -430,9 +430,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Bar de Rilo",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "person": "Juan",
+                "neighborhood": "mea",
+                "paragraph_1" : "Eu a Rilo non ía, non me deixaban. Non me movía da miña zona.",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
@@ -535,9 +535,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Estanco tenda bar",
-                "person": "",
+                "person": "Mar Novoa",
                 "neighborhood": "franza",
-                "paragraph_1" : "",
+                "paragraph_1" : "Corría da man dunha muller, Carmiña, ela sóa. Estaba solteira. Tiña mérito",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
@@ -577,9 +577,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Casino Progreso de Franza",
-                "person": "",
+                "person": "Mar e Raquel",
                 "neighborhood": "franza",
-                "paragraph_1" : "",
+                "paragraph_1" : "De 1927, fundado por indians retornados",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
@@ -598,10 +598,10 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Institución Escolas Franza O Seixo",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "person": "Miguel Rodríguez",
+                "neighborhood": "Franza",
+                "paragraph_1" : "Fundada pola sociedade do mesmo nome, fundouse dende a Habana.",
+                "paragraph_2" : "Funcionou como escola desde 1927-32. Despois foi cooperativa agrícola-gandeira.",
                 "sound_file": "",
                 "image_file": ""                 
             }            
