@@ -138,7 +138,7 @@ var elementos = {
                 "title": "Barracoi",
                 "person": "",
                 "neighborhood": "sanxulian",
-                "paragraph_1": "",
+                "paragraph_1": "Reparación de Barcos",
                 "paragraph_2": "",
                 "sound_file": "",
                 "image_file": ""
@@ -703,9 +703,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Cabina Telefónica",
-                "person": "",
+                "person": "Jucho",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "paragraph_1" : "Tanto servía como facer unha chamada ou resgardarse da choiva",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
@@ -724,9 +724,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Fonte dos Catro Canos",
-                "person": "",
+                "person": "Arancha",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "paragraph_1" : "Fonte na que a xente iba a buscar auga para o fogar, xa que non había onde maercala",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
