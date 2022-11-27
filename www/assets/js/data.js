@@ -661,9 +661,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Tenda do Coxo",
-                "person": "",
+                "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
+                "paragraph_1" : "Cando iamos cantar o aguinaldo iamos alí porque eran todos homes casados e tiñan cartos",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
