@@ -1023,7 +1023,27 @@ var elementos = {
                 "image_file": "images/parqueinfantil.jpg"                 
             }            
         }
-             
+        ,
+        {
+            "id": 51,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25944,
+                    43.46082
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Bar A Puñalada",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }             
              
     ]
 };
