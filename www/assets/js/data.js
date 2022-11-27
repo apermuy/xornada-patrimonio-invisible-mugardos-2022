@@ -1044,6 +1044,26 @@ var elementos = {
                 "image_file": ""                 
             }            
         }             
-             
+        ,
+        {
+            "id": 52,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.22276,
+                    43.45848
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Villalobos (casa antiga)",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }                         
     ]
 };
