@@ -726,7 +726,7 @@ var elementos = {
                 "title": "Fonte dos Catro Canos",
                 "person": "Arancha",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "Fonte na que a xente iba a buscar auga para o fogar, xa que non había onde maercala",
+                "paragraph_1" : "Fonte na que a xente iba a buscar auga para o fogar, xa que non había onde mercala",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
