@@ -451,9 +451,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Bar tenda de Piñón",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "person": "Alvaro Lamas",
+                "neighborhood": "mea",
+                "paragraph_1" : "Iamos nos recreos a mercar doces. A señora era moi vella xa cando eu ía",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
