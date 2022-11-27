@@ -598,10 +598,10 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Institución Escolas Franza O Seixo",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "person": "Miguel Rodríguez",
+                "neighborhood": "Franza",
+                "paragraph_1" : "Fundada pola sociedade do mesmo nome, fundouse dende a Habana.",
+                "paragraph_2" : "Funcionou como escola desde 1927-32. Despois foi cooperativa agrícola-gandeira.",
                 "sound_file": "",
                 "image_file": ""                 
             }            
