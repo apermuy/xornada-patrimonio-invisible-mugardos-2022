@@ -1002,6 +1002,26 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
+        },
+        {
+            "id": 50,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25752,
+                    43.46007
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Parque infantil",
+                "person": "",
+                "neighborhood": "sanxiao",
+                "paragraph_1" : "",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": "images/parqueinfantil.jpg"                 
+            }            
         }
              
              
