@@ -619,7 +619,7 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Edificio Grupo Escolar Francisco Vizoso",
-                "person": "",
+                "person": "Mar e Miguel",
                 "neighborhood": "franza",
                 "paragraph_1" : "",
                 "paragraph_2" : "",
@@ -640,10 +640,10 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Tenda de Maruxa do Penedo",
-                "person": "",
+                "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1" : "Maruxa e Manolo atendían a taberna-tenda, o principio vendían leña a ían a buscar a Monfero",
+                "paragraph_2" : "O Carro podía ser a 5 ptas / 100 ptas",
                 "sound_file": "",
                 "image_file": ""                 
             }            
