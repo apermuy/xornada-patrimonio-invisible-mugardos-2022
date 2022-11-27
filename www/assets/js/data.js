@@ -1065,5 +1065,25 @@ var elementos = {
                 "image_file": ""                 
             }            
         }                         
-    ]
+        ,
+        {
+            "id": 53,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.24960,
+                    43.45479
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Tenda de Lilia (os casás)",
+                "person": "Aida",
+                "neighborhood": "mea",
+                "paragraph_1" : "Ía miña avoa mercar e mercaba de todo. Tamén tiñan roupa, eu era pequena.",
+                "paragraph_2" : "Antes de ter a tenda nos Casás, estaba en Rilo",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }                          ]
 };
