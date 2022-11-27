@@ -28,7 +28,7 @@ var layerControl = L.control.layers(baseMaps).addTo(map);
 
 function onEachFeature(feature, layer) {
 
-    var header_popup = '<h5>' + feature.properties.title + '</h5>';
+    var header_popup = '<h4>' + feature.properties.title + '</h4>';
     var text_popup = header_popup;
 
     if (feature.properties.paragraph_1 != '') {
@@ -50,7 +50,7 @@ function onEachFeature(feature, layer) {
         var text_popup = header_popup +
             '<p>' + feature.properties.paragraph_1 + '</p>' +
             '<p>' + feature.properties.paragraph_2 + '</p>' +
-            '<img src=\"' + feature.properties.image_file + '\"\/>' +
+            '<img class="img-fluid" src=\"' + feature.properties.image_file + '\"\/>' +
             '<audio src\"' + feature.properties.sound_file + '\" preload="none" controls>O teu navegador non soporta o elemento <code>audio</code>.</audio>';
     }
 
