@@ -682,10 +682,10 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Tenda Amparo a Piruca",
-                "person": "",
+                "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1" : "Aquí mercaba miña nai o fiado. Cando eramos nenos iamos alí a ver a tele, pero tiñas que pagar unha peseta.",
+                "paragraph_2" : "As parellas sentábanse un banco atrás, para darse bicos e Amparo berrábanos se mirabamos para atrás",
                 "sound_file": "",
                 "image_file": ""                 
             }            
