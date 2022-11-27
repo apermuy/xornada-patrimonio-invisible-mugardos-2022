@@ -28,7 +28,7 @@ var layerControl = L.control.layers(baseMaps).addTo(map);
 
 function onEachFeature(feature, layer) {
 
-    var header_popup = '<h4>' + feature.properties.title + '</h4>';
+    var header_popup = '<h6>' + feature.properties.title + '</h6>';
     var text_popup = header_popup;
 
     if (feature.properties.paragraph_1 != '') {
