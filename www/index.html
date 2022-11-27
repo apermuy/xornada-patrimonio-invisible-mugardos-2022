@@ -39,6 +39,8 @@
 		})();
 	</script>
 	<!-- End Matomo Code -->
+	<script src="assets/js/data.js" type="text/javascript"></script>
+
 
 
 
@@ -61,15 +63,15 @@
 		<section
 			class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
 			<div class="content">
-				<h1>Xornada de patrimonio (in)visible</h1>
-				<h5>Sábado 26 Novembro de 2022 <br/> Mercado de San Telmo de Mugardos </h5>
-				<h6>De 11.00 a 14.00 horas</h6>
+				<h1>Patrimonio (in)visible de Mugardos</h1>
 				<p class="major">Buscamos lugares, recollemos experiencias e mapeamos en aberto as emocións!</p>
+				<div id="totalElementos" class="alert alert-secondary" role="alert"></div>
 				<ul class="actions stacked">
 					<li><a href="mapa.html" class="button button-success big wide smooth-scroll-middle">QUERO VER O
 							MAPA</a></li>
 					<li><a href="https://www.comunidadeozulo.org/node/add/patrimonio" class="button button-primary big wide smooth-scroll-middle">QUERO APORTAR</a></li>
 				</ul>
+
 			</div>
 			<div class="image">
 				<img src="images/banner.jpg" alt="" />
@@ -150,6 +152,12 @@
 
 	<!-- Scripts -->
 
+	<script>
+		var totalElementos = Object.keys(elementos.features).length;
+		var textoTotal = 'Xa temos ' + totalElementos + ' elementos no mapa!';
+		document.getElementById("totalElementos").textContent = textoTotal;
+
+	</script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/jquery.scrollex.min.js"></script>
 	<script src="assets/js/jquery.scrolly.min.js"></script>
