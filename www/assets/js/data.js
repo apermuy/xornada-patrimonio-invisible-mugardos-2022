@@ -956,7 +956,7 @@ var elementos = {
                 "title": "A Magnética",
                 "person": "",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "paragraph_1" : "Desmagnetizaba os barcos co apoio dunhas boias",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
