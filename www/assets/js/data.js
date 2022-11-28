@@ -471,7 +471,7 @@ var elementos = {
             },
             "type": "Feature",
             "properties": {
-                "title": "A tenda de Barbiñas (Pedreira)",
+                "title": "A tenda de Barbiñas",
                 "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
                 "paragraph_1" : "Bar-Tenda. Como no resto, ían xogar a partida os homes e a beber.",
