@@ -787,10 +787,10 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Fogar",
-                "person": "",
+                "person": "Dolores",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1" : "Era unha taberna. Os domingos iamos ver a tele. Había moita vida. Despois puxeron os médicos.",
+                "paragraph_2" : "Hoxe é a Casa da Cultura",
                 "sound_file": "",
                 "image_file": ""                 
             }            
