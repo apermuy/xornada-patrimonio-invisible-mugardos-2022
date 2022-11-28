@@ -745,9 +745,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Cantón de Cora",
-                "person": "",
+                "person": "Francis",
                 "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "paragraph_1" : "Faciamos un campo de fútbol con dúas pedras",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
