@@ -475,7 +475,7 @@ var elementos = {
                 "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
                 "paragraph_1" : "Bar-Tenda. Como no resto, ían xogar a partida os homes e a beber.",
-                "paragraph_2" : "Os vellos bebían mezclados (viño doce e caña) ou caña con azúcre",
+                "paragraph_2" : "Os vellos bebían mezclados (viño doce e caña) ou caña con azúcre.",
                 "sound_file": "",
                 "image_file": ""                 
             }            
@@ -493,9 +493,9 @@ var elementos = {
             "type": "Feature",
             "properties": {
                 "title": "Bar de Manolo do estanco + salón de baile",
-                "person": "",
-                "neighborhood": "sanxiao",
-                "paragraph_1" : "",
+                "person": "Juan Bacarroxo",
+                "neighborhood": "mea",
+                "paragraph_1" : "O lado había un salón de baile, por arriba tiá como se fose un galiñeiro e ían as nais a vixiar os fillos",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
