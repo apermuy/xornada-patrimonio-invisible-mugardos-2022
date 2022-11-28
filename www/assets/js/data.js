@@ -513,10 +513,10 @@ var elementos = {
             },
             "type": "Feature",
             "properties": {
-                "title": "Bar de Chone",
-                "person": "",
+                "title": "Bar de Chone (Galiñeiro)",
+                "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
+                "paragraph_1" : "O dono foi guerrilleiro, penso que o fusilaron",
                 "paragraph_2" : "",
                 "sound_file": "",
                 "image_file": ""                 
