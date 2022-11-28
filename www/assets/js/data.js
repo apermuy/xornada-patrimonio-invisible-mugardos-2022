@@ -471,11 +471,11 @@ var elementos = {
             },
             "type": "Feature",
             "properties": {
-                "title": "A tenda de Barbiñas",
-                "person": "",
+                "title": "A tenda de Barbiñas (Pedreira)",
+                "person": "Juan Bacarroxo",
                 "neighborhood": "mea",
-                "paragraph_1" : "",
-                "paragraph_2" : "",
+                "paragraph_1" : "Bar-Tenda. Como no resto, ían xogar a partida os homes e a beber.",
+                "paragraph_2" : "Os vellos bebían mezclados (viño doce e caña) ou caña con azúcre",
                 "sound_file": "",
                 "image_file": ""                 
             }            
