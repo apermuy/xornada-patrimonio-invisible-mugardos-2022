@@ -1085,5 +1085,26 @@ var elementos = {
                 "sound_file": "",
                 "image_file": ""                 
             }            
-        }                          ]
+        }   
+        ,
+        {
+            "id": 54,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.25783,
+                    43.46147
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "title": "Luis de Mareas",
+                "person": "",
+                "neighborhood": "San Xiao",
+                "paragraph_1" : "Onde se ataban as redes",
+                "paragraph_2" : "",
+                "sound_file": "",
+                "image_file": ""                 
+            }            
+        }                          ]                       ]
 };
